@@ -20,7 +20,7 @@ Instalación:
 Clona el repositorio:
 
 bash
-git clone https://github.com/tu-usuario/Maze-Solver-DFS-BFS.git
+git clone https://github.com/Stiven1128/Maze-Solver-DFS-BFS.git
 Instala Pygame:
 
 bash
